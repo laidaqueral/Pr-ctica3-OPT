@@ -1,0 +1,10 @@
+file title  : Vegetation
+data type   : integer
+file type   : binary
+columns     : 50
+rows        : 50
+ref.system  : plane
+ref.units   : meters
+unit dist.  : 1
+min. value  : 1
+max. value  : 10
