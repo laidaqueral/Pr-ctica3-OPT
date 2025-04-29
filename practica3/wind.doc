@@ -1,0 +1,11 @@
+file title  : Wind direction
+data type   : integer
+file type   : binary
+columns     : 50
+rows        : 50
+ref.system  : plane
+ref.units   : meters
+unit dist.  : 1
+min. value  : 0
+max. value  : 7
+value units: direction (0=N, 1=NE, ..., 7=NW)
